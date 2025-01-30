@@ -1,0 +1,6 @@
+src/venv/
+venv/
+*__pycache__*
+*.pyc
+*.pdf
+output/
